@@ -11,6 +11,7 @@ let operacion;
 //asigno valor a operacion con la siguiente 
 operacion= (20 + 10 ) / 5 + 3 * 2 - 4 * ( 20 + 10) / 5 + 3 * 2 -4 * ( 20 + 10 ) / 5 + 3 * 2 -4;
 alert(`el resultado es: ${operacion}`);
+// (20+10)/5+3∗2−4(20 + 10) / 5 + 3 * 2 - 4(20+10)/5+3∗2−4
 // se optiene reultado por medio de la gerarquia de operaciones
 // primero se hacen los parentesis, diviciones y multiplicaciones
 // (30)/5+6-4(30)/5+6-4(30)/5+6-4
